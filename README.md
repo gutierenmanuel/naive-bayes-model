@@ -1,6 +1,6 @@
-# TITLE PROYECT
+# Naive Bayes
 
-explanation of the github project
+This repository contains a simple Naive Bayes model for sentiment analysis. The goal is to determine whether a given text is positive or negative.
 
 ## Content
 
@@ -12,11 +12,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
-
-## Examples
-
-
+See the src folder and explore the diferents jupyter notebooks
 
 ## Project Structure
 
